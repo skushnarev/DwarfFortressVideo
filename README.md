@@ -1,5 +1,8 @@
 # DwarfFortressVideo
-Подборка видео по игре Dwarf Fortress
+Подборка видео по игре Dwarf Fortress.
+*Появилась мысль собрать всех просветителей такой замечательной игры как Dwarf Fortress в одном месте. С пояснениями и ссылками как на их каналы так и на сами учебные или развлекательные видео. Отсортировать их по языку, авторству и добавить пояснения к контенту. В идеале с указанием количества серий, версией игры и характером содержания.
+Принимаются првки, предложения и рекомендации.*
+Автор идеи LEXX. 
 
 ## Русские
 
@@ -8,7 +11,7 @@
 [YouTube](https://www.youtube.com/user/Aydjile)
 
 #### Godenorstist
-Прохождение в ститле гайда. С поянениями и примерами из личного опыта автора.
+Прохождение в ститле гайда. С поянениями и примерами из личного опыта автора. 34.11
 [Смотреть на YouTube](https://www.youtube.com/watch?v=mdlVTIWeiQw&list=PL-SvsJbVD1gyG-uCZ3ZeomhzbJJ8Jt_rc&index=25)
 
 #### Велитон
@@ -16,7 +19,7 @@
 [Смотреть на YouTube](https://www.youtube.com/watch?v=AsFOwYK3sN0&list=PL-SvsJbVD1gw9KPzoHaOIcGkPSnDsIP2c)
 
 #### Cerollist
-Постройка пирамиды из стекла по среди пустыни. Создание высококультурной цивилизации дварфов.
+Постройка пирамиды из стекла по среди пустыни. Создание высококультурной цивилизации дварфов. 43.03
 [Смотреть на YouTube](https://www.youtube.com/watch?v=9q5aAnjatMo&list=PL-SvsJbVD1gwrENwzwRl1WwoY4V5S1YLs)
 
 
@@ -73,13 +76,85 @@
 
 
 
+### 1DirtyDwarf1
+Канал с приимцщественно дварфийской тематикой.
+[YouTube](https://www.youtube.com/user/1DirtyDwarf1)
+
+#### Суровое дварфийское выживание
+Выживание в недружелюбной среде 34.11
+[Смотреть на YouTube](https://www.youtube.com/watch?v=b3q61Jm9kyg&list=PLtbGpCe-T4b25qSnjUCJa-RnwQfbNOdTh)
+
+#### Учебник по Dwarf Fortres
+Уроки в виде прохождения, с подробными пояснениями. 34.11
+[Смотреть на YouTube](https://www.youtube.com/watch?v=YMkxkAfHh_U&list=PLtbGpCe-T4b16M7TiHAO4VR6R4YahMtHp)
+
+#### Учебник по Dwarf Fortress v 2.0
+Сбитые уроки, без воды и с указанием горячих клавишь. 34.11 (без таилсета)
+[Смотреть на YouTube](https://www.youtube.com/watch?v=_LFKtzRSSG0&list=PLtbGpCe-T4b0n8AZslJ43aFBJ9CKg_Ir8)
+
+
+
+### Ray Anor
+[YouTube](https://www.youtube.com/user/RayAnorElf)
+
+#### Dwarf Fortress
+Летсплей с пояснениями, а так же с интересными вставками информации о рудах и комнях. 40.13
+[Смотреть на YouTube](https://www.youtube.com/watch?v=oL47b2Vdjic&list=PLrKPZkRK2M3vcIisJL8t31xTq8HbuiKBt)
+
+
+
+### Антоха Галактический
+[YouTube](https://www.youtube.com/user/AntonGalaktiki)
+
+#### Dwarf Fortress
+Пробное прохождение на версии 40.11
+[Смотреть на YouTube](https://www.youtube.com/watch?v=Ov0zGG8KGi4&list=PLfDmszir8f9bKUAaqpvqcBrHWwM1ceFZT)
+
+
+
+### iaroslav4ik
+[YouTube](https://www.youtube.com/channel/UC6_0NqACfL70DwGA2_5SWfA)
+
+#### Дварф фортресс. Dwarf fortress
+Прохождение с подробными коментариями. 34.11
+[Смотреть на YouTube](https://www.youtube.com/watch?v=dnfUbZDn1EE&list=PL919B694D4EBE702D)
+
+
+
+### Евгений Прокопчик
+[YouTube](https://www.youtube.com/channel/UCy3aZuqkCtL4bj0-SXOzmXA)
+
+#### DFhack руский гайд
+[YouTube](https://www.youtube.com/watch?feature=player_embedded&v=EMMeteHhKgo)
+
+
+
 ### LEXX
 В большей части канал про Minecraft. Пока по DF есть только один пилотный выпуск.
 [YouTube](https://www.youtube.com/user/skushnarev)
 
 #### Пилот
-Пилотная серия, созданная после вдохновления от просмотра серий Aydjile
+Пилотная серия, созданная после вдохновления от просмотра серий Aydjile. 34.11
 [Смотреть на YouTube](https://www.youtube.com/watch?v=QZhqx2y_nto)
 
 
 ## English
+
+### Captain Duck
+[YouTube](https://www.youtube.com/user/captnduck)
+
+#### DFVIDTUTS2010
+Version 31.03
+[Watch on YouTube](https://www.youtube.com/watch?v=KGBTNPbUvFM&list=PL262151AD89F4C076)
+
+#### DFLP2011
+Version 31.25
+[Watch on YouTube](https://www.youtube.com/watch?v=kQXnVy6Nd_c&list=PLAC6B261FD0691F04)
+
+#### DFVIDTUTS2012
+Version 34.02
+[Watch on YouTube](https://www.youtube.com/watch?v=iHVZtRdtPdo&list=PL06686270DA5FF439)
+
+#### DFVIDTUTS2015
+Version 40.24
+[Watch on YouTube](https://www.youtube.com/watch?v=ouDiKXYeqeY&list=PL0sBhCMFBvPlF7wG7OH-NFQKMeCQiS8aM)
