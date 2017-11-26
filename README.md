@@ -103,6 +103,16 @@
 
 
 
+### ArSi
+Первый на моей памяти дварфовод девушка. Судя по видео, достаточн опытная и интересно строит. Так же поясняет свои действия для зрителей. Бонусом, приятный голос.
+[YouTube](https://www.youtube.com/user/05ArSi)
+
+#### Dwarf Fortress
+Пробное прохождение на версии. 42.06
+[Смотреть на YouTube](https://www.youtube.com/watch?v=v-gbuyqPuZQ&list=PLSOOjl9HG76NxOdItIThyua2NwZn_410r)
+
+
+
 ### Антоха Галактический
 [YouTube](https://www.youtube.com/user/AntonGalaktiki)
 
