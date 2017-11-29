@@ -143,9 +143,45 @@
 Записи стримов разнообразных игр.
 [YouTube](https://www.youtube.com/user/Gr1nd3rs1)
 
-#### Dwarf Fortress
-Мнооооого стримов по DF.
+#### Первый сезон
+Запись стримов на русской версии DF.
 [Смотреть на YouTube](https://www.youtube.com/watch?v=HNvSYg2YHdw&list=PLeVReRfhyF3yIXtcM_W1hvXFINMB6EGoS)
+
+#### Второй сезон
+Запись стримов DF русский клиент. 40.24
+[Смотреть на YouTube](https://www.youtube.com/watch?v=q32v38FW_JI&list=PLeVReRfhyF3yIXtcM_W1hvXFINMB6EGoS&index=29)
+
+#### Второй сезон. Ледник
+Запись стримов DF русский клиент. 40.24
+[Смотреть на YouTube](https://www.youtube.com/watch?v=Sdl7HwkFECA&index=48&list=PLeVReRfhyF3yIXtcM_W1hvXFINMB6EGoS)
+
+#### Второй сезон. Черепашки с бородой
+Запись стримов DF русский клиент. 40.24
+[Смотреть на YouTube](https://www.youtube.com/watch?v=RAMu9Eq3Hcw&index=55&list=PLeVReRfhyF3yIXtcM_W1hvXFINMB6EGoS)
+
+#### Третий сезон. Проклятые земли
+Запись стримов DF русский клиент. 40.24
+[Смотреть на YouTube](https://www.youtube.com/watch?v=UOme0qFIrOc&index=64&list=PLeVReRfhyF3yIXtcM_W1hvXFINMB6EGoS)
+
+#### Третий сезон. Проклятые земли. Новый трай
+Запись стримов DF русский клиент. 40.24
+[Смотреть на YouTube](https://www.youtube.com/watch?v=ob_PT7siAI8&index=79&list=PLeVReRfhyF3yIXtcM_W1hvXFINMB6EGoS)
+
+#### Третий сезон. Новая сборка
+Запись стримов DF русский клиент. 42.06
+[Смотреть на YouTube](https://www.youtube.com/watch?v=5PtnZPK8ve0&list=PLeVReRfhyF3yIXtcM_W1hvXFINMB6EGoS&index=82&t=29m48s)
+
+#### Сессионка 
+Запись стримов DF русский клиент. 42.06
+[Смотреть на YouTube](https://www.youtube.com/watch?v=lkWiP8eDy8U)
+
+#### Masterwork 
+Запись стримов DF за людей. 43.03
+[Смотреть на YouTube](https://www.youtube.com/watch?v=naWXespeNa4&index=112&list=PLeVReRfhyF3yIXtcM_W1hvXFINMB6EGoS)
+
+#### Dwarf Fortress 
+Запись стримов DF. 44.02
+[Смотреть на YouTube](https://www.youtube.com/watch?v=GE-Qhc8XenA)
 
 
 ### LEXX
