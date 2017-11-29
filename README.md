@@ -139,6 +139,15 @@
 
 
 
+### GrindЗrs Channel
+Записи стримов разнообразных игр.
+[YouTube](https://www.youtube.com/user/Gr1nd3rs1)
+
+#### Dwarf Fortress
+Мнооооого стримов по DF.
+[Смотреть на YouTube](https://www.youtube.com/watch?v=HNvSYg2YHdw&list=PLeVReRfhyF3yIXtcM_W1hvXFINMB6EGoS)
+
+
 ### LEXX
 В большей части канал про Minecraft. Пока по DF есть только один пилотный выпуск.
 [YouTube](https://www.youtube.com/user/skushnarev)
@@ -146,6 +155,17 @@
 #### Пилот
 Пилотная серия, созданная после вдохновления от просмотра серий Aydjile. 34.11
 [Смотреть на YouTube](https://www.youtube.com/watch?v=QZhqx2y_nto)
+
+
+
+### Кирилл Лейфер
+Нанал про раритетную технику и телефоны но так же бывают стримы по DF.
+[YouTube](https://www.youtube.com/user/kogdazjasdohnu)
+
+#### Dwarf Fortress
+Общение с подписчиками под суету бородачей. 43.05
+[Смотреть на YouTube](https://www.youtube.com/watch?v=KveBanvxDaQ&list=PLGyv96MZIJNJBKIKYuBJWG4b9KIAb2IAx&index=4)
+
 
 
 ## English
