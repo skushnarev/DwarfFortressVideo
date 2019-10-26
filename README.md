@@ -113,13 +113,27 @@
 
 
 
+### Noyl37
+Скромный дварфовод. хорошо подаёт историю и инфорацию об игре. Коротко, ёмко, интересно.
+[YouTube](https://www.youtube.com/user/Noyl37)
+
+#### Messianic Fortification (Dwarf Fortress)
+К сожалению, легенда о группе «Мессианские Фортификации» - это лишь история об отчаянных дварфах, несколько лет проживших взаперти, постоянно ошибавшихся и так и не сумевших выполнить поставленную перед ними задачу: выяснить, каким образом можно одолеть огромную армию мертвецов. Король так и не получил необходимых сведений, и судьба дварфийской расы в суровом мире Экамо Анефа очень мрачна.
+[Смотреть на YouTube (аудио версия статьи)](https://www.youtube.com/watch?v=28fB7R9_JlM&list=PLjJISxzihXIGHbQcrjrRVaU6bpw7lOstn)
+[Читать на pikabu](https://pikabu.ru/story/itogi_messianic_fortification_dwarf_fortress_i_planyi_na_budushchee_5251407)
+
+#### Dwarf Fortress лестплэй/гайд
+Прохождение с элементами туториола на версии. 44.12
+[Смотреть на YouTube](https://www.youtube.com/watch?v=KTHRAy6hpck&list=PLjJISxzihXIFGabilacISEgUw8IQnYmWL)
+
+
+
 ### Антоха Галактический
 [YouTube](https://www.youtube.com/user/AntonGalaktiki)
 
 #### Dwarf Fortress
 Пробное прохождение на версии 40.11
 [Смотреть на YouTube](https://www.youtube.com/watch?v=Ov0zGG8KGi4&list=PLfDmszir8f9bKUAaqpvqcBrHWwM1ceFZT)
-
 
 
 ### iaroslav4ik
