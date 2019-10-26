@@ -208,13 +208,23 @@
 
 
 
-### Кирилл Лейфер
-Нанал про раритетную технику и телефоны но так же бывают стримы по DF.
+#### Кирилл Лейфер
+Канал про раритетную технику и телефоны но так же бывают стримы по DF.
 [YouTube](https://www.youtube.com/user/kogdazjasdohnu)
 
 #### Dwarf Fortress
 Общение с подписчиками под суету бородачей. 43.05
 [Смотреть на YouTube](https://www.youtube.com/watch?v=KveBanvxDaQ&list=PLGyv96MZIJNJBKIKYuBJWG4b9KIAb2IAx&index=4)
+
+
+
+#### Paleolith Games
+Обзоры,гайды по играм и многое другое.Здесь вы найдёте обзоры старых,малоизвестных или просто инди игр.
+[YouTube](https://www.youtube.com/channel/UCwRyZKfWd14nwPPzfzbAkrAu)
+
+#### Гайд Dwarf fortress
+Некий мини цикл гайдов по такой замечательной игре, как dwarf fortress. 42.06
+[Смотреть на YouTube](https://www.youtube.com/watch?v=VUV66REo60M&list=PLcu31kNGStP9OCoAt_d9HktT9PZCVx0XT)
 
 
 
