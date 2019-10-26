@@ -208,7 +208,7 @@
 
 
 
-#### Кирилл Лейфер
+### Кирилл Лейфер
 Канал про раритетную технику и телефоны но так же бывают стримы по DF.
 [YouTube](https://www.youtube.com/user/kogdazjasdohnu)
 
@@ -218,7 +218,7 @@
 
 
 
-#### Paleolith Games
+### Paleolith Games
 Обзоры,гайды по играм и многое другое.Здесь вы найдёте обзоры старых,малоизвестных или просто инди игр.
 [YouTube](https://www.youtube.com/channel/UCwRyZKfWd14nwPPzfzbAkrAu)
 
