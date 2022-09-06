@@ -228,6 +228,16 @@
 
 
 
+### Muzzloff Play
+Обзоры и прохождения разных игр.
+[YouTube](https://www.youtube.com/c/MuzzloffPlay)
+
+#### Первый Взгляд на DWARF FORTRESS режим Крепости - СТРИМЫ
+Набор стимов с первым знакомством с dwarf fortress. 47.04
+[Смотреть на YouTube](https://www.youtube.com/watch?v=dlv18xnVFjs&list=PL-Em-XGA52AwX8ZjZ2oYcaYT9CFby-rBZ)
+
+
+
 ## English
 
 ### Captain Duck
